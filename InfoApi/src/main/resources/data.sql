@@ -1,0 +1,1 @@
+Insert into info (first_name,last_name,contact_no,email,status) values('Rajat','Bisht','123456','a@b.c','Active');
